@@ -67,7 +67,7 @@ Diseño adaptado para cualquier tipo de pantalla del dispositivo:
 
 ### El proyecto se encuentra alojado en mi repositorio de GitHub:
 
-- [Pagina web](https://miguelramosalarcon.github.io/100DaysOfProjects/93-day-links-navigation/)
+- [Pagina web](https://johanserna1023.github.io/93-day-links-navigation/)
 - [Codigo fuente]()
 
 ## Proceso de trabajo
